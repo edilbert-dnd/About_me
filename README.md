@@ -9,6 +9,10 @@ I'm an educator who loves combining traditional teaching with modern tech tools.
 💡 I'm passionate about helping students grow, think creatively, and build impactful projects.
 
 
+## Link
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/allwinedilbert)
+
+
 
 
 
