@@ -1,6 +1,3 @@
-# About_me
-
-
 ## 🚀 About Me
 👋 Hi there! I'm Allwin Edilbert
 I'm an educator who loves combining traditional teaching with modern tech tools. I specialize in Data Science, Artificial Intelligence (AI), Python Programming.
